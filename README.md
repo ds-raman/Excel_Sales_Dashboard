@@ -23,7 +23,7 @@ The primary objective was to make business performance easier to understand with
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_PROJECT_POST_URL">
+  <a href="https://www.linkedin.com/posts/-raman_excel-dataanalytics-datavisualization-ugcPost-7495739962571538432-kTXI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFmWvYBec9P0x2ft2ng2VoP9Wq_vNk945I">
     View Project on LinkedIn
   </a>
 </p>
@@ -202,22 +202,6 @@ Contains the complete interactive Excel dashboard.
 
 **sales-dashboard.png**
 Contains the dashboard preview displayed in this README.
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="YOUR_GITHUB_PROFILE_URL">
-    GitHub
-  </a>
-</p>
-
----
 
 ## Author
 
