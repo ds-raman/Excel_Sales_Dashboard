@@ -15,7 +15,7 @@ The primary objective was to make business performance easier to understand with
 ## Dashboard Overview
 
 <p align="center">
-  <img src="images/sales-dashboard.png" alt="Sales Dashboard Overview" width="950">
+  <img src="Image" alt="Sales Dashboard Overview" width="950">
 </p>
 
 <p align="center">
